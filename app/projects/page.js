@@ -1,22 +1,5 @@
 const projects = [
-  {
-    num: '01',
-    title: 'Hava Durumu Uygulaması',
-    desc: 'OpenWeather API kullanarak şehre göre anlık hava durumu gösteren responsive web uygulaması.',
-    tags: ['React', 'API', 'CSS']
-  },
-  {
-    num: '02',
-    title: 'Not Alma Uygulaması',
-    desc: 'Markdown destekli, kategorili not alma uygulaması. LocalStorage ile veriler kalıcı tutuluyor.',
-    tags: ['JavaScript', 'Markdown', 'localStorage']
-  },
-  {
-    num: '03',
-    title: 'Kitap Takip Sistemi',
-    desc: 'Okunan, okunacak ve okunmakta olan kitapları yönetmek için Python + Flask ile geliştirilmiş web uygulaması.',
-    tags: ['Python', 'Flask', 'SQLite']
-  },
+,
 ]
 
 export default function Projects() {
