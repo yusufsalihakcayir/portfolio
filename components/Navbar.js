@@ -26,7 +26,7 @@ export default function Navbar() {
         fontSize: '1.3rem', color: 'var(--ink)',
         textDecoration: 'none', letterSpacing: '-0.02em'
       }}>
-        Ada<span style={{ color: 'var(--accent)', fontStyle: 'italic' }}>.</span>
+        Salih<span style={{ color: 'var(--accent)', fontStyle: 'italic' }}>.</span>
       </Link>
       <ul style={{ display: 'flex', gap: '2.5rem', listStyle: 'none' }}>
         {[
